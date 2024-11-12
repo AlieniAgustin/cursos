@@ -11,7 +11,7 @@ Este repositorio contiene los certificados que acreditan mi formación en Python
    Certificado que acredita mi participación en el curso avanzado de Python, donde profundicé en temas como estructuras de datos, análisis de algoritmos, manejo de excepciones, y optimización de código.
 
 3. **Participación en Torneo de Programación**  
-   Certificado de participación en el [nombre del torneo], un evento donde puse a prueba mis habilidades en programación mediante desafíos y problemas algorítmicos, mejorando mi capacidad para resolver problemas en tiempo limitado.
+   Certificado de participación en el ICPC, un evento donde puse a prueba mis habilidades en programación mediante desafíos y problemas algorítmicos, mejorando mi capacidad para resolver problemas en tiempo limitado.
 
 ## Objetivo de este repositorio
 
@@ -23,4 +23,4 @@ No hay ningún código asociado con este repositorio. Los archivos incluidos son
 
 ---
 
-Si tienes alguna pregunta o necesitas más información, no dudes en contactarme a través de mi perfil de GitHub.
+Si tienes alguna pregunta o necesitas más información, no dudes en contactarme a través de mi perfil de GitHub o correo: alieniagustinweb@gmail.com.
